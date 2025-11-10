@@ -12,10 +12,10 @@ This repository contains the preprocessed waste classification dataset for the C
 
 
 Waste Classification –  Week 2
-⚙️ Implementation Overview
+ Implementation Overview
 During Week 2, the designed CNN model was implemented and trained using the Garbage Classification Dataset on Google Colab (with GPU acceleration).
 
-🧩 Implementation Steps
+ Implementation Steps
 Imported the Kaggle dataset using the Kaggle API.
 Preprocessed images using ImageDataGenerator for scaling and augmentation.
 Built and compiled a CNN model using TensorFlow/Keras with:
