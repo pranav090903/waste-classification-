@@ -1,0 +1,2 @@
+Upload Waste Image,output,timestamp
+.gradio\flagged\Upload Waste Image\82721013ed05f6c0a5a8\trash116.jpg,"{""label"": ""trash"", ""confidences"": [{""label"": ""trash"", ""confidence"": 0.7321166396141052}, {""label"": ""plastic"", ""confidence"": 0.19962170720100403}, {""label"": ""paper"", ""confidence"": 0.037349242717027664}, {""label"": ""glass"", ""confidence"": 0.0214310884475708}, {""label"": ""metal"", ""confidence"": 0.009481342509388924}]}",2025-11-15 14:51:02.450629
