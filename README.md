@@ -1,4 +1,6 @@
-Project Overview & Access
+
+💡 Project Overview & Access
+
 This application classifies images into five categories: Glass, Metal, Paper, Plastic, and Trash. It uses Transfer Learning with MobileNetV2 for high accuracy and is deployed as a live web application.
 Live Application URL:https://huggingface.co/spaces/pranav0909/waste-classifier
 Model Architecture: MobileNetV2 (Frozen Feature Extractor) with a custom Dense Classifier Head.
